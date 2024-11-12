@@ -14,12 +14,6 @@ El objetivo principal de esta práctica es implementar un agente inteligente y l
 2. **Recogida de Tesoros (2 puntos)**: Desde cualquier posición en la escena, el agente debe ser capaz de recoger los cofres y luego alcanzar la meta, siguiendo el camino óptimo.
 3. **Atrapar a los Enemigos (2 puntos)**: Desde cualquier posición en la escena, el agente debe ser capaz de atrapar a los enemigos (zombies), recoger los cofres y luego alcanzar la meta.
 
-
-## Realización de la Práctica
-
-- **Grupos**: La práctica se realizará en grupos de **3 alumnos**.
-- **Fecha de Entrega**: Martes 12 de noviembre de 2024, antes de las 09:00 horas, a través de la tarea que se publicará en el apartado de evaluación del aula virtual.
-
 ## Forma de Entrega
 
 1. **Originalidad**:
